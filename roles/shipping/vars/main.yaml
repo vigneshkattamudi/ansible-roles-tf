@@ -1,0 +1,4 @@
+MYSQL_HOST: mysql.dsops84.space
+MYSQL_ROOT_USER: root
+MYSQL_ROOT_PASSWORD: RoboShop@1
+CART_HOST: cart.dsops84.space
