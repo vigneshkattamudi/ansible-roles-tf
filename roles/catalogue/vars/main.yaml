@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.dsops84.space
+MONGODB_HOST: mongodb-{{ env }}.dsops84.space
