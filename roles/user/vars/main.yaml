@@ -1,2 +1,2 @@
-REDIS_HOST: redis.dsops84.space
-MONGODB_HOST: mongodb.dsops84.space
+REDIS_HOST: redis-{{ env }}.dsops84.space
+MONGODB_HOST: mongodb-{{ env }}.dsops84.space

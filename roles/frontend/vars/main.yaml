@@ -1,9 +1,5 @@
-CATALOGUE_HOST: catalogue.dsops84.space
-USER_HOST: user.dsops84.space
-CART_HOST: cart.dsops84.space
-MONGODB_HOST: mongodb.dsops84.space
-SHIPPING_HOST: shipping.dsops84.space
-PAYMENT_HOST: payment.dsops84.space
-MYSQL_HOST: mysql.dsops84.space
-REDIS_HOST: redis.dsops84.space
-RABBITMQ_HOST: rabbitmq.dsops84.space
+CATALOGUE_HOST: catalogue.backend-{{ env }}.dsops84.space
+USER_HOST: user.backend-{{ env }}.dsops84.space
+CART_HOST: cart.backend-{{ env }}.dsops84.space
+SHIPPING_HOST: shipping.backend-{{ env }}.dsops84.space
+PAYMENT_HOST: payment.backend-{{ env }}.dsops84.space
